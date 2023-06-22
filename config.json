@@ -1,0 +1,11 @@
+{
+    "multilayer": {
+        "number_of_inputs": 35,
+        "hidden_layers": [15,2,15],
+        "number_of_outputs": 35,
+        "epochs" : 40000,
+        "learning_rate" : 0.005,
+        "beta": 0.001,
+        "momentum": 0.8
+    }
+}
